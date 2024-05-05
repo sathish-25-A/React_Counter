@@ -1,0 +1,14 @@
+#div1 {
+  display: flex;
+  justify-content: center;
+}
+#div2 {
+  display: flex;
+  justify-content: center;
+}
+
+#but,
+#but1,
+#but2 {
+  font-size: larger;
+}
